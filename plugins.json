@@ -1,277 +1,280 @@
-﻿[
-  {
-    "name": "bilibili",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/bilibili.js",
-    "platform": "bilibili",
-    "version": "0.2.3",
-    "author": "猫头猫"
-  },
-  {
-    "name": "CCTV听音",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/CCTV听音.js",
-    "platform": "CCTV听音",
-    "version": "0.0.1"
-  },
-  {
-    "name": "GD音乐台",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/GD音乐台.js",
-    "platform": "GD音乐台",
-    "version": "1.0.0"
-  },
-  {
-    "name": "GitCode",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/GitCode.js",
-    "platform": "GitCode",
-    "version": "2025.08.26"
-  },
-  {
-    "name": "Navidrome",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Navidrome.js",
-    "platform": "Navidrome",
-    "version": "0.0.0"
-  },
-  {
-    "name": "QQ Vip",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ Vip.js"
-  },
-  {
-    "name": "QQ_念心",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ_念心.js",
-    "platform": "QQ(念心音源)",
-    "version": "1.0.0",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "QQ_猫",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ_猫.js",
-    "platform": "QQ",
-    "version": "0.2.2"
-  },
-  {
-    "name": "QQ音乐 （非VIP）",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ音乐 （非VIP）.js",
-    "platform": "QQ音乐",
-    "version": "0.2.5"
-  },
-  {
-    "name": "Q音",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Q音.js",
-    "platform": "Q音",
-    "version": "0.1.0",
-    "author": "t.me/JHMS_Channel"
-  },
-  {
-    "name": "suno",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/suno.js",
-    "platform": "suno",
-    "version": "0.0.0"
-  },
-  {
-    "name": "udio",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/udio.js",
-    "platform": "udio",
-    "version": "0.0.0",
-    "author": "猫头猫"
-  },
-  {
-    "name": "WebDAV",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/WebDAV.js",
-    "platform": "WebDAV",
-    "version": "0.0.2",
-    "author": "猫头猫"
-  },
-  {
-    "name": "WebDav_lrc",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/WebDav_lrc.js",
-    "platform": "WebDAV",
-    "version": "0.1.2",
-    "author": "mcck"
-  },
-  {
-    "name": "Youtube",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Youtube.js",
-    "platform": "Youtube",
-    "version": "0.0.1"
-  },
-  {
-    "name": "千千",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/千千.js",
-    "platform": "千千",
-    "version": "0.1.3"
-  },
-  {
-    "name": "哔哩哔哩",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/哔哩哔哩.js",
-    "platform": "哔哩哔哩",
-    "version": "0.0.1",
-    "author": "sinmite"
-  },
-  {
-    "name": "哔哩哔哩_Cookie",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/哔哩哔哩_Cookie.js",
-    "platform": "哔哩哔哩_Cookie",
-    "version": "0.7.3",
-    "author": "other"
-  },
-  {
-    "name": "喜马拉雅_竹侣",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/喜马拉雅_竹侣.js",
-    "platform": "喜马拉雅(公开API)",
-    "version": "0.6.2"
-  },
-  {
-    "name": "喜马拉雅_笭鬼鬼",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/喜马拉雅_笭鬼鬼.js",
-    "platform": "喜马拉雅(笭鬼鬼API)",
-    "version": "1.6"
-  },
-  {
-    "name": "歌词千寻",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/歌词千寻.js",
-    "platform": "歌词千寻",
-    "version": "0.0.0"
-  },
-  {
-    "name": "汽水qishui音乐",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/汽水qishui音乐.js"
-  },
-  {
-    "name": "汽水vip",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/汽水vip.js"
-  },
-  {
-    "name": "溯音网易",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/溯音网易.js",
-    "platform": "溯音网易",
-    "version": "1",
-    "author": "竹佀"
-  },
-  {
-    "name": "猫耳FM",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/猫耳FM.js",
-    "platform": "猫耳FM",
-    "version": "0.1.4"
-  },
-  {
-    "name": "网易bimiao",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易bimiao.js",
-    "platform": "网易(bimiao音源)",
-    "version": "1.1",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "网易Ciallo～(∠・ω_ )⌒☆",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易Ciallo～(∠・ω_ )⌒☆.js",
-    "platform": "Ciallo～(∠・ω< )⌒☆(仅网易)",
-    "version": "1.0721",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "网易_念心",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易_念心.js",
-    "platform": "网易(念心音源)",
-    "version": "1.0.0",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "网易_猫",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易_猫.js",
-    "platform": "网易",
-    "version": "0.2.2"
-  },
-  {
-    "name": "网易专辑",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易专辑.js",
-    "platform": "网易专辑",
-    "version": "0.0.1",
-    "author": "sinmite"
-  },
-  {
-    "name": "网易云",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云.js",
-    "platform": "网易云",
-    "version": "0.1.0",
-    "author": "t.me/JHMS_Channel"
-  },
-  {
-    "name": "网易云电台",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云电台.js",
-    "platform": "\\u7F51\\u6613\\u4E91\\u7535\\u53F0",
-    "version": "0.0.2",
-    "author": "\\u5495\\u5495mur"
-  },
-  {
-    "name": "网易云音乐 （非VIP）",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云音乐 （非VIP）.js",
-    "platform": "网易云音乐",
-    "version": "0.2.3"
-  },
-  {
-    "name": "网易音乐",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易音乐.js",
-    "platform": "网易音乐",
-    "version": "2025.09.14"
-  },
-  {
-    "name": "腾讯音乐",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/腾讯音乐.js",
-    "platform": "腾讯音乐",
-    "version": "2025.09.13"
-  },
-  {
-    "name": "酷我JHMS",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我JHMS.js",
-    "platform": "酷我JHMS",
-    "version": "0.1.0",
-    "author": "t.me/JHMS_Channel"
-  },
-  {
-    "name": "酷我_念心",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我_念心.js",
-    "platform": "酷我(念心音源)",
-    "version": "1.0.0",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "酷我_猫",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我_猫.js",
-    "platform": "酷我",
-    "version": "0.1.7"
-  },
-  {
-    "name": "酷我音乐Thomas",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我音乐Thomas.js",
-    "platform": "酷我音乐",
-    "version": "2025.09.16"
-  },
-  {
-    "name": "酷狗",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗.js",
-    "platform": "酷狗",
-    "version": "0.1.3"
-  },
-  {
-    "name": "酷狗JHMS",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗JHMS.js",
-    "platform": "酷狗JHMS",
-    "version": "0.1.0",
-    "author": "t.me/JHMS_Channel"
-  },
-  {
-    "name": "酷狗Thomas",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗Thomas.js",
-    "platform": "酷狗音乐",
-    "version": "2025.10.01"
-  },
-  {
-    "name": "酷狗_念心",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗_念心.js",
-    "platform": "酷狗(念心音源)",
-    "version": "1.0.0",
-    "author": "玥然OvO"
-  },
-  {
-    "name": "酷狗简云",
-    "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗简云.js"
-  }
-]
+{
+  "desc": "MusicFree 插件订阅 - 76个插件",
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/bilibili.js",
+      "platform": "bilibili",
+      "version": "0.2.3",
+      "author": "猫头猫"
+    },
+    {
+      "name": "CCTV听音",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/CCTV听音.js",
+      "platform": "CCTV听音",
+      "version": "0.0.1"
+    },
+    {
+      "name": "GD音乐台",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/GD音乐台.js",
+      "platform": "GD音乐台",
+      "version": "1.0.0"
+    },
+    {
+      "name": "GitCode",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/GitCode.js",
+      "platform": "GitCode",
+      "version": "2025.08.26"
+    },
+    {
+      "name": "Navidrome",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Navidrome.js",
+      "platform": "Navidrome",
+      "version": "0.0.0"
+    },
+    {
+      "name": "QQ Vip",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ Vip.js"
+    },
+    {
+      "name": "QQ_念心",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ_念心.js",
+      "platform": "QQ(念心音源)",
+      "version": "1.0.0",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "QQ_猫",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ_猫.js",
+      "platform": "QQ",
+      "version": "0.2.2"
+    },
+    {
+      "name": "QQ音乐 （非VIP）",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/QQ音乐 （非VIP）.js",
+      "platform": "QQ音乐",
+      "version": "0.2.5"
+    },
+    {
+      "name": "Q音",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Q音.js",
+      "platform": "Q音",
+      "version": "0.1.0",
+      "author": "t.me/JHMS_Channel"
+    },
+    {
+      "name": "suno",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/suno.js",
+      "platform": "suno",
+      "version": "0.0.0"
+    },
+    {
+      "name": "udio",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/udio.js",
+      "platform": "udio",
+      "version": "0.0.0",
+      "author": "猫头猫"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/WebDAV.js",
+      "platform": "WebDAV",
+      "version": "0.0.2",
+      "author": "猫头猫"
+    },
+    {
+      "name": "WebDav_lrc",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/WebDav_lrc.js",
+      "platform": "WebDAV",
+      "version": "0.1.2",
+      "author": "mcck"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/Youtube.js",
+      "platform": "Youtube",
+      "version": "0.0.1"
+    },
+    {
+      "name": "千千",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/千千.js",
+      "platform": "千千",
+      "version": "0.1.3"
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/哔哩哔哩.js",
+      "platform": "哔哩哔哩",
+      "version": "0.0.1",
+      "author": "sinmite"
+    },
+    {
+      "name": "哔哩哔哩_Cookie",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/哔哩哔哩_Cookie.js",
+      "platform": "哔哩哔哩_Cookie",
+      "version": "0.7.3",
+      "author": "other"
+    },
+    {
+      "name": "喜马拉雅_竹侣",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/喜马拉雅_竹侣.js",
+      "platform": "喜马拉雅(公开API)",
+      "version": "0.6.2"
+    },
+    {
+      "name": "喜马拉雅_笭鬼鬼",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/喜马拉雅_笭鬼鬼.js",
+      "platform": "喜马拉雅(笭鬼鬼API)",
+      "version": "1.6"
+    },
+    {
+      "name": "歌词千寻",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/歌词千寻.js",
+      "platform": "歌词千寻",
+      "version": "0.0.0"
+    },
+    {
+      "name": "汽水qishui音乐",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/汽水qishui音乐.js"
+    },
+    {
+      "name": "汽水vip",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/汽水vip.js"
+    },
+    {
+      "name": "溯音网易",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/溯音网易.js",
+      "platform": "溯音网易",
+      "version": "1",
+      "author": "竹佀"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/猫耳FM.js",
+      "platform": "猫耳FM",
+      "version": "0.1.4"
+    },
+    {
+      "name": "网易bimiao",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易bimiao.js",
+      "platform": "网易(bimiao音源)",
+      "version": "1.1",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "网易Ciallo～(∠・ω_ )⌒☆",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易Ciallo～(∠・ω_ )⌒☆.js",
+      "platform": "Ciallo～(∠・ω< )⌒☆(仅网易)",
+      "version": "1.0721",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "网易_念心",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易_念心.js",
+      "platform": "网易(念心音源)",
+      "version": "1.0.0",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "网易_猫",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易_猫.js",
+      "platform": "网易",
+      "version": "0.2.2"
+    },
+    {
+      "name": "网易专辑",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易专辑.js",
+      "platform": "网易专辑",
+      "version": "0.0.1",
+      "author": "sinmite"
+    },
+    {
+      "name": "网易云",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云.js",
+      "platform": "网易云",
+      "version": "0.1.0",
+      "author": "t.me/JHMS_Channel"
+    },
+    {
+      "name": "网易云电台",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云电台.js",
+      "platform": "\\u7F51\\u6613\\u4E91\\u7535\\u53F0",
+      "version": "0.0.2",
+      "author": "\\u5495\\u5495mur"
+    },
+    {
+      "name": "网易云音乐 （非VIP）",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易云音乐 （非VIP）.js",
+      "platform": "网易云音乐",
+      "version": "0.2.3"
+    },
+    {
+      "name": "网易音乐",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/网易音乐.js",
+      "platform": "网易音乐",
+      "version": "2025.09.14"
+    },
+    {
+      "name": "腾讯音乐",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/腾讯音乐.js",
+      "platform": "腾讯音乐",
+      "version": "2025.09.13"
+    },
+    {
+      "name": "酷我JHMS",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我JHMS.js",
+      "platform": "酷我JHMS",
+      "version": "0.1.0",
+      "author": "t.me/JHMS_Channel"
+    },
+    {
+      "name": "酷我_念心",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我_念心.js",
+      "platform": "酷我(念心音源)",
+      "version": "1.0.0",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "酷我_猫",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我_猫.js",
+      "platform": "酷我",
+      "version": "0.1.7"
+    },
+    {
+      "name": "酷我音乐Thomas",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷我音乐Thomas.js",
+      "platform": "酷我音乐",
+      "version": "2025.09.16"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗.js",
+      "platform": "酷狗",
+      "version": "0.1.3"
+    },
+    {
+      "name": "酷狗JHMS",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗JHMS.js",
+      "platform": "酷狗JHMS",
+      "version": "0.1.0",
+      "author": "t.me/JHMS_Channel"
+    },
+    {
+      "name": "酷狗Thomas",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗Thomas.js",
+      "platform": "酷狗音乐",
+      "version": "2025.10.01"
+    },
+    {
+      "name": "酷狗_念心",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗_念心.js",
+      "platform": "酷狗(念心音源)",
+      "version": "1.0.0",
+      "author": "玥然OvO"
+    },
+    {
+      "name": "酷狗简云",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/酷狗简云.js"
+    }
+  ]
+}
