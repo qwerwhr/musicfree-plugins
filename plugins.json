@@ -1,0 +1,382 @@
+﻿[
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/5sing.js",
+        "description":  "5sing",
+        "name":  "5sing"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/bilibili.js",
+        "description":  "bilibili",
+        "name":  "bilibili"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/CCTV听音.js",
+        "description":  "CCTV听音",
+        "name":  "CCTV听音"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/GD音乐台.js",
+        "description":  "GD音乐台",
+        "name":  "GD音乐台"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/GitCode.js",
+        "description":  "GitCode",
+        "name":  "GitCode"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/Navidrome.js",
+        "description":  "Navidrome",
+        "name":  "Navidrome"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ Vip.js",
+        "description":  "QQ Vip",
+        "name":  "QQ Vip"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ_念心.js",
+        "description":  "QQ_念心",
+        "name":  "QQ_念心"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ_猫.js",
+        "description":  "QQ_猫",
+        "name":  "QQ_猫"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ_竹玥.js",
+        "description":  "QQ_竹玥",
+        "name":  "QQ_竹玥"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ歌词.js",
+        "description":  "QQ歌词",
+        "name":  "QQ歌词"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/QQ音乐 （非VIP）.js",
+        "description":  "QQ音乐 （非VIP）",
+        "name":  "QQ音乐 （非VIP）"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/Q音.js",
+        "description":  "Q音",
+        "name":  "Q音"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/suno.js",
+        "description":  "suno",
+        "name":  "suno"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/udio.js",
+        "description":  "udio",
+        "name":  "udio"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/WebDAV.js",
+        "description":  "WebDAV",
+        "name":  "WebDAV"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/WebDav_lrc.js",
+        "description":  "WebDav_lrc",
+        "name":  "WebDav_lrc"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/Youtube.js",
+        "description":  "Youtube",
+        "name":  "Youtube"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/书音FM.js",
+        "description":  "书音FM",
+        "name":  "书音FM"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/云云音乐.js",
+        "description":  "云云音乐",
+        "name":  "云云音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/云音乐 （酷我非VIP）.js",
+        "description":  "云音乐 （酷我非VIP）",
+        "name":  "云音乐 （酷我非VIP）"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/元力KG.js",
+        "description":  "元力KG",
+        "name":  "元力KG"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/元力KW.js",
+        "description":  "元力KW",
+        "name":  "元力KW"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/元力MG.js",
+        "description":  "元力MG",
+        "name":  "元力MG"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/元力QQ.js",
+        "description":  "元力QQ",
+        "name":  "元力QQ"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/元力WY.js",
+        "description":  "元力WY",
+        "name":  "元力WY"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/千千.js",
+        "description":  "千千",
+        "name":  "千千"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/哔哩哔哩.js",
+        "description":  "哔哩哔哩",
+        "name":  "哔哩哔哩"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/哔哩哔哩_Cookie.js",
+        "description":  "哔哩哔哩_Cookie",
+        "name":  "哔哩哔哩_Cookie"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/喜马拉雅_竹侣.js",
+        "description":  "喜马拉雅_竹侣",
+        "name":  "喜马拉雅_竹侣"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/喜马拉雅_笭鬼鬼.js",
+        "description":  "喜马拉雅_笭鬼鬼",
+        "name":  "喜马拉雅_笭鬼鬼"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/好听轻音乐.js",
+        "description":  "好听轻音乐",
+        "name":  "好听轻音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/小枸音乐.js",
+        "description":  "小枸音乐",
+        "name":  "小枸音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/小蜗音乐.js",
+        "description":  "小蜗音乐",
+        "name":  "小蜗音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/开心汽水.js",
+        "description":  "开心汽水",
+        "name":  "开心汽水"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/弥音QQ.js",
+        "description":  "弥音QQ",
+        "name":  "弥音QQ"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/歌曲宝.js",
+        "description":  "歌曲宝",
+        "name":  "歌曲宝"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/歌词千寻.js",
+        "description":  "歌词千寻",
+        "name":  "歌词千寻"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/汽水qishui音乐.js",
+        "description":  "汽水qishui音乐",
+        "name":  "汽水qishui音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/汽水vip.js",
+        "description":  "汽水vip",
+        "name":  "汽水vip"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/溯音网易.js",
+        "description":  "溯音网易",
+        "name":  "溯音网易"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/爱听.js",
+        "description":  "爱听",
+        "name":  "爱听"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/猫耳FM.js",
+        "description":  "猫耳FM",
+        "name":  "猫耳FM"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/碳酸歌词.js",
+        "description":  "碳酸歌词",
+        "name":  "碳酸歌词"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/碳酸氢钠.js",
+        "description":  "碳酸氢钠",
+        "name":  "碳酸氢钠"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/种子.js",
+        "description":  "种子",
+        "name":  "种子"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易bimiao.js",
+        "description":  "网易bimiao",
+        "name":  "网易bimiao"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易Ciallo～(∠・ω_ )⌒☆.js",
+        "description":  "网易Ciallo～(∠・ω_ )⌒☆",
+        "name":  "网易Ciallo～(∠・ω_ )⌒☆"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易_念心.js",
+        "description":  "网易_念心",
+        "name":  "网易_念心"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易_猫.js",
+        "description":  "网易_猫",
+        "name":  "网易_猫"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易_竹玥.js",
+        "description":  "网易_竹玥",
+        "name":  "网易_竹玥"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易_笭鬼鬼.js",
+        "description":  "网易_笭鬼鬼",
+        "name":  "网易_笭鬼鬼"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易专辑.js",
+        "description":  "网易专辑",
+        "name":  "网易专辑"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易云.js",
+        "description":  "网易云",
+        "name":  "网易云"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易云电台.js",
+        "description":  "网易云电台",
+        "name":  "网易云电台"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易云音乐 （非VIP）.js",
+        "description":  "网易云音乐 （非VIP）",
+        "name":  "网易云音乐 （非VIP）"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/网易音乐.js",
+        "description":  "网易音乐",
+        "name":  "网易音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/腾讯音乐.js",
+        "description":  "腾讯音乐",
+        "name":  "腾讯音乐"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/落月QQ.js",
+        "description":  "落月QQ",
+        "name":  "落月QQ"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/西瓜糖QQ.js",
+        "description":  "西瓜糖QQ",
+        "name":  "西瓜糖QQ"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/迟言QQ.js",
+        "description":  "迟言QQ",
+        "name":  "迟言QQ"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我.js",
+        "description":  "酷我",
+        "name":  "酷我"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我Fish.js",
+        "description":  "酷我Fish",
+        "name":  "酷我Fish"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我JHMS.js",
+        "description":  "酷我JHMS",
+        "name":  "酷我JHMS"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我_念心.js",
+        "description":  "酷我_念心",
+        "name":  "酷我_念心"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我_猫.js",
+        "description":  "酷我_猫",
+        "name":  "酷我_猫"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我_竹侣.js",
+        "description":  "酷我_竹侣",
+        "name":  "酷我_竹侣"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我_竹玥.js",
+        "description":  "酷我_竹玥",
+        "name":  "酷我_竹玥"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷我音乐Thomas.js",
+        "description":  "酷我音乐Thomas",
+        "name":  "酷我音乐Thomas"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗.js",
+        "description":  "酷狗",
+        "name":  "酷狗"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗JHMS.js",
+        "description":  "酷狗JHMS",
+        "name":  "酷狗JHMS"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗Thomas.js",
+        "description":  "酷狗Thomas",
+        "name":  "酷狗Thomas"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗_念心.js",
+        "description":  "酷狗_念心",
+        "name":  "酷狗_念心"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗_竹玥.js",
+        "description":  "酷狗_竹玥",
+        "name":  "酷狗_竹玥"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/酷狗简云.js",
+        "description":  "酷狗简云",
+        "name":  "酷狗简云"
+    },
+    {
+        "url":  "https://raw.githubusercontent.com/qwerwhr/musicfree-plugins/main/闻音酷我.js",
+        "description":  "闻音酷我",
+        "name":  "闻音酷我"
+    }
+]
