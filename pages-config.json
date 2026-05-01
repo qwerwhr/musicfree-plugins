@@ -1,0 +1,7 @@
+{
+  "build_legacy": true,
+  "source": {
+    "branch": "main",
+    "path": "/docs"
+  }
+}
