@@ -5,4 +5,6 @@
   Gitee:https://gitee.com/wang-haoranw/musicfree-plugins/raw/main/plugins.json<br><br>
   GitCode:https://gitcode.net/qq_46235929/musicfree-plugins/-/raw/main/plugins.json<br><br>
   GitLab:https://gitlab.com/qwerwhr/musicfree-plugins/-/raw/main/plugins.json<br><br>
+
+  目前实测对https://github.com/maotoumao/MusicFreeDesktop/releases有效，
 免责声明：本资源从网络资源收集而来<br><br>
