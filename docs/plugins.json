@@ -1,5 +1,5 @@
 {
-  "desc": "MusicFree 插件订阅 - 76个插件",
+  "desc": "MusicFree 插件订阅 - 77个插件",
   "plugins": [
     {
       "name": "5sing",
@@ -380,6 +380,11 @@
       "name": "闻音酷我",
       "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/闻音酷我.js",
       "version": "1.0.0"
+    },
+    {
+      "name": "把你的歌单带走-PlaylistOut",
+      "url": "https://cdn.jsdelivr.net/gh/qwerwhr/musicfree-plugins@main/把你的歌单带走-PlaylistOut.js",
+      "version": "1.3.9"
     }
   ]
 }
